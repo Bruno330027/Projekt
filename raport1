@@ -1,0 +1,35 @@
+Wstęp
+
+	Tower Defence(obrona wieży) – to gra, w której zadaniem gracza jest powstrzymanie kolejnych fal przeciwników poprzez stawianie wież obronnych lub różnego rodzaju utrudnień na drodze, po której się poruszają. Jest to jedna z typów gier strategicznych czasu rzeczywistego – rts.
+
+  Jednym z ważniejszych założeń jest stworzenie gry, by pozostała otwarta na nowe modyfikacje.
+
+  Przy tworzeniu gry zamierzam wykorzystać język Python, przy czym głównie będę korzystać z biblioteki pygame.
+
+Opis szczegółowy projektu
+
+  1. Okno gry i HUD – W pierwszej kolejności będę musiał stworzyć podstawę gry, czyli okno w którym będzie wyświetlana gra, wynik, numer poziomu oraz możliwe ulepszenia zamku, cały background.
+
+  2. Wieża – Chciałbym dodać różne możliwości obronne wieży. Planuje dodać sklep i możliwość ulepszania wieży. Przeciwnicy mogą niszczyć wieżę, jej żywotność będzie wskazywana poprzez pasek życia. Kiedy pasek zejdzie do minimum, wtedy gracz przegrywa.
+
+  3. Przeciwnicy – Zamierzam dodać różne typy przeciwników, którzy będą atakować wieże.
+
+  4. Sztuczna inteligencja – Istotne będzie również zachowanie przeciwników względem poziomu trudności.
+
+  5. Wynik – Istotną kwestią jest również punktacja oraz rekord gracza.
+
+  6. Poziomy – Wraz z pokonaniem określonej liczby przeciwników gra będzie utrudniała graczowi osiągniecie coraz to większej ilości punktów.
+
+Harmonogram
+
+  1. 24.03.2022
+
+  2. 01.04.2022
+
+  3. 12.04.2022
+
+  4. 15.04.2022
+
+  5. 20.04.2022
+
+  6. 30.04.2022
