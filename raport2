@@ -1,0 +1,35 @@
+Bruno Kotlicki
+
+Raport II
+Zrobione:
+-instalacja biblioteki pygame
+-stworzenie podstawowego okna gry 
+-wgranie sprite wieży
+-dodanie wieży do gry 
+
+Nieprzewidziane problemy podczas pracy:
+-Problemy z odczytem pygame przez VSC
+
+Prace do ukończenia:
+-Dodanie możliwości obronnych wieży 
+-Dodanie sprite przeciwników
+-Poruszanie się przeciwników
+-Wprowadzenie modelu zniszczeń wieży
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Archiwum aktualizacji:
+
+#Update 24.03.2022
++Instalacja biblioteki
++Dodanie pętli w której będzie odtwarzana gra
++Stworzenie szkieletu podstawowego okna gry
++Dodanie tła do gry
+
+#Update 31.03.2022
++Dostosowanie okna gry do tła
++Dodanie Sprite wieży 
++Optymalizacja limitu FPS
+
+#Update 1.04.2022
++Dodanie klasy wyświetlającej wieżę
